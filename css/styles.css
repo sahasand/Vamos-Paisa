@@ -239,6 +239,7 @@ nav.scrolled .lang-divider {
     margin-bottom: 1.5rem;
     opacity: 0;
     animation: fadeUp 1s 0.3s forwards;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 .hero h1 {
